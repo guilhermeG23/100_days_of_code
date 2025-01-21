@@ -3,3 +3,6 @@
 ___
 
 Obj: Learn different programming languages, ways to apply them, in order to improve my knowledge and skills;
+___
+### Listing:
+* [1º Day: Hello World;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day1)
