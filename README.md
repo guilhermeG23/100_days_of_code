@@ -6,3 +6,4 @@ Obj: Learn different programming languages, ways to apply them, in order to impr
 ___
 ### Listing:
 * [1º Day: Hello World;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day1)
+* [2º Day: Comments;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day2)
