@@ -1,0 +1,6 @@
+<?php
+# Oneline
+// Oneline
+/*
+Multiline
+*/

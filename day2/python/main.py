@@ -1,0 +1,7 @@
+# Oneline
+"""
+Multiline
+"""
+'''
+Multiline
+'''
