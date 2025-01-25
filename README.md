@@ -9,3 +9,4 @@ ___
 * [2º Day: Comments;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day2)
 * [3º Day: Typing;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day3)
 * [4º Day: Parameters;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day4)
+* [5º Day: Functions;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day5)
