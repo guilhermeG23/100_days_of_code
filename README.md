@@ -10,3 +10,4 @@ ___
 * [3º Day: Typing;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day3)
 * [4º Day: Parameters;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day4)
 * [5º Day: Functions;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day5)
+* [6º Day: Go Routines and Channels;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day6)
