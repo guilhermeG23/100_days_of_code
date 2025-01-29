@@ -12,3 +12,4 @@ ___
 * [5º Day: Functions;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day5)
 * [6º Day: Go Routines and Channels;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day6)
 * [7º Day: Scopes in SHELL;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day7)
+* [8º Day: Test containers;](https://github.com/guilhermeG23/100_days_of_code/tree/main/day8)
